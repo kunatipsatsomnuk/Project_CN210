@@ -7,7 +7,9 @@
    * Input/Output
    * Main Memory
 2.CPU ประกอบด้วย
-    * ALU
+    * ALU (Arithermathic and logical unit)
+    * Control Unit
+    * Register
   
 [การบ้านครั้งที่ 1](https://youtu.be/Tj96dnA5ybM)
 
