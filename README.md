@@ -13,6 +13,7 @@
     * Register
 3. MIPS Instruction format ประกอบด้วย
     * R-format
+    ![image](rmat.PNG)
     
   
 [การบ้านครั้งที่ 1](https://youtu.be/Tj96dnA5ybM)
