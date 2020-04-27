@@ -169,6 +169,7 @@
    
           MemRead=1 ; เป็นการให้อ่านค่าใน Memory
           IorD=0 และ IRWrite=1 ; นำค่าจาก PC ไปไว้ใน Memory แล้วนำไปไว้ที่ Register
+          
 
 [**คลิปวีดีโอการบ้านครั้งที่ 6**](https://youtu.be/FJwCxofdXOI)
 
