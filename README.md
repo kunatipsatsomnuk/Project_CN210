@@ -3,9 +3,9 @@
 ## สรุปเนื้อหา (ยังไม่สมบูรณ์)
 
 1. Computer ประกอบด้วย
-  * CPU
-  * Input/Output
-  * Main Memory
+   * CPU
+   * Input/Output
+   * Main Memory
   
 [การบ้านครั้งที่ 1](https://youtu.be/Tj96dnA5ybM)
 
