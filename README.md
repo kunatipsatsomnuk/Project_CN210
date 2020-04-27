@@ -2,17 +2,17 @@
 
 ### สรุปเนื้อหา (ยังไม่สมบูรณ์)
 
-1. Computer ประกอบด้วย
+1. **Computer ประกอบด้วย**
    * CPU (Central processing unit)
    * Input/Output
    * Main Memory
    
-2. CPU ประกอบด้วย
+2. **CPU ประกอบด้วย**
     * ALU (Arithermathic and logical unit)
     * Control Unit
     * Register
-3. MIPS Instruction format ประกอบด้วย
-    * **R-format**
+3. **MIPS Instruction format ประกอบด้วย**
+    * R-format
     
     ![image](rmat.PNG)
     
@@ -43,7 +43,7 @@
         
        ซึ่งรวมกันได้เป็น 0000 0000 0010 0010 0010 1000 0010 0000 หรือ 00222820 ในเลขฐาน 16
 
-    * [คลิปวีดีโอการบ้านครั้งที่ 1](https://youtu.be/Tj96dnA5ybM)
+    * [**คลิปวีดีโอการบ้านครั้งที่ 1**](https://youtu.be/Tj96dnA5ybM)
 
 5. การบ้านครั้งที่ 2 (การอธิบายการทำงานของคอมพิวเตอร์)
     * โดยในการอธิยบายนั้นจะใช้ตัวอย่างต่อไปนี้
