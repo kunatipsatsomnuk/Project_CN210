@@ -18,6 +18,12 @@
     
     * I-format
     
+    ![image](imat.PNG)
+    
+    * J-format
+    
+    ![image](jmat.PNG)
+    
   
 [การบ้านครั้งที่ 1](https://youtu.be/Tj96dnA5ybM)
 
