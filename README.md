@@ -170,7 +170,15 @@
           MemRead=1 ; เป็นการให้อ่านค่าใน Memory
           IorD=0 และ IRWrite=1 ; นำค่าจาก PC ไปไว้ใน Memory แล้วนำไปไว้ที่ Register
           
-   ![image](r_t1_1.png)      
+   ![image](r_t1_1.png)
+   
+          ALUSrcA=0 ; นำค่าจาก PC มาเป็น A
+          ALUSrcB=1 ; ค่าของ B จะมีค่าเป็น 4
+          ALUOP=ADD ; นำ A บวกกับ B
+          PCWrite=1 และ PCSource=1 ; นำผลของ A บวก B ไปไว้ที่ PC
+   
+   ![image](r_t1_2.png)
+   * Cycle ที่ 2
 
 [**คลิปวีดีโอการบ้านครั้งที่ 6**](https://youtu.be/FJwCxofdXOI)
 
