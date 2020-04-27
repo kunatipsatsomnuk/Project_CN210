@@ -12,7 +12,7 @@
     * Control Unit
     * Register
 3. MIPS Instruction format ประกอบด้วย
-    * <br>**R-format**
+    * **R-format**
     
     ![image](rmat.PNG)
     
