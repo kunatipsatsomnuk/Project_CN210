@@ -148,9 +148,21 @@
    * Cycle ที่ 1
           
           นำข้อมูลที่รับเข้ามาจาก PC แล้วนำไปเก็บไว้ที่ Instruction register
+          
+   ![image](beq_t1.png)
+   * Cycle ที่ 2
    
-
-[**คลิปวีดีโอการบ้านครั้งที่ 5**](https://youtu.be/PX9spgevC18)
+          นำค่าตำแหน่งจาก PC ไปคำนวณกับ offset ที่ ALU แล้วนำไปเก็บไว้ที่ ALUOut
+          แล้วนำ $rs ไปไว้ที่ A และ $rt ไปไว้ที่ B
+          
+   ![image](beq_t2.png)
+   * Cycle ที่ 3
+   
+          นำ A กับ B มาลบกันถ้าค่าที่ได้เป็น 0 ให้นำค่าจาก ALUOut ไปไว้ที่ PC
+          
+   ![image](beq_t3.png)
+   
+  * [**คลิปวีดีโอการบ้านครั้งที่ 5**](https://youtu.be/PX9spgevC18)
 
 [**คลิปวีดีโอการบ้านครั้งที่ 6**](https://youtu.be/FJwCxofdXOI)
 
