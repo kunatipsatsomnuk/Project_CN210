@@ -16,6 +16,8 @@
     
     ![image](rmat.PNG)
     
+    * I-format
+    
   
 [การบ้านครั้งที่ 1](https://youtu.be/Tj96dnA5ybM)
 
