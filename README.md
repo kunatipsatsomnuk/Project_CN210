@@ -1,6 +1,6 @@
 # รายงานวิชา CN210 สถาปัตยกรรมคอมพิวเตอร์ (Computer Architecture)
 
-### สรุปเนื้อหา (ยังไม่สมบูรณ์)
+### สรุปเนื้อหา
 
 1. **Computer ประกอบด้วย**
    * CPU (Central processing unit)
