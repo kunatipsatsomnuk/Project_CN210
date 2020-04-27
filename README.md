@@ -145,6 +145,10 @@
 8. **การบ้านครั้งที่ 5 (การทำงานของคำสั่ง beq ใน Multi cycle)**
 
    คำสั่งของ beq จะมีรูปร่างดังนี้ beq $rs,$rt,offset โดยใน Multi cycle จะทำงานอยู่ด้วยกัน 3 cycle
+   * Cycle ที่ 1
+          
+          นำข้อมูลที่รับเข้ามาจาก PC แล้วนำไปเก็บไว้ที่ Instruction register
+   
 
 [**คลิปวีดีโอการบ้านครั้งที่ 5**](https://youtu.be/PX9spgevC18)
 
