@@ -141,6 +141,10 @@
     ![image](lw_t5.png)      
     
     * [**คลิปวีดีโอการบ้านครั้งที่ 4**](https://youtu.be/IfmJNEMieOw)
+    
+8. **การบ้านครั้งที่ 5 (การทำงานของคำสั่ง beq ใน Multi cycle)**
+
+   คำสั่งของ beq จะมีรูปร่างดังนี้ beq $rs,$rt,offset โดยใน Multi cycle จะทำงานอยู่ด้วยกัน 3 cycle
 
 [**คลิปวีดีโอการบ้านครั้งที่ 5**](https://youtu.be/PX9spgevC18)
 
