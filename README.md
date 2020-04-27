@@ -171,13 +171,32 @@
           IorD=0 และ IRWrite=1 ; นำค่าจาก PC ไปไว้ใน Memory แล้วนำไปไว้ที่ Register
           ALUSrcA=0 ; นำค่าจาก PC มาเป็น A
           ALUSrcB=1 ; ค่าของ B จะมีค่าเป็น 4
-          ALUOP=ADD ; นำ A บวกกับ B
+          ALUOP=ADD ; นำ A บวกกับ B กัน
           PCWrite=1 และ PCSource=1 ; นำผลของ A บวก B ไปไว้ที่ PC
           
    ![image](r_t1_1.png)
    ![image](r_t1_2.png)
    * Cycle ที่ 2
-
-[**คลิปวีดีโอการบ้านครั้งที่ 6**](https://youtu.be/FJwCxofdXOI)
+   
+          ในขั้นตอนนี้จะเป็นการนำค่า offset มาคำนวณแต่ในรูปแบบ R-format นั้นไม่มี
+          จึงไม่เกิดการคำนวณ
+   
+   ![image](r_t2.png)
+   * Cycle ที่ 3
+   
+          ALUSrcA=1 ; นำค่าจาก $rs นำไปไว้ที่ A
+          ALUSrcB=0 ; นำค่าจาก $rs นำไปไว้ที่ B
+          ALUOP=2 ; นำ A มาคำนวณ B กัน
+   
+   ![image](r_t3.png)
+   * Cycle ที่ 4
+   
+          MemtoReg=0 ; นำค่าใน ALUOut ไปไว้ใน Register
+          RegDst=1 ; นำค่าจาก $rd ไปไว้ใน Register
+          RegWrite=1 ; นำค่าจาก ALUOut ไปเขียนไว้บน $rd
+   
+   ![image](r_t4_1.png)
+   ![image](r_t4_2.png)
+   * [**คลิปวีดีโอการบ้านครั้งที่ 6**](https://youtu.be/FJwCxofdXOI)
 
 [**คลิปวีดีโอการบ้านครั้งที่ 7**](https://youtu.be/CLlpdwgUzqw)
