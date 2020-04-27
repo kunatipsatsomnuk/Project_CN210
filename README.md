@@ -13,6 +13,7 @@
     * Register
 3. MIPS Instruction format ประกอบด้วย
     * R-format
+    
     ![image](rmat.PNG)
     
   
