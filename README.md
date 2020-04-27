@@ -10,7 +10,7 @@
 2.CPU ประกอบด้วย
     * ALU (Arithermathic and logical unit)
     * Control Unit
-    * Register
+  * Register
   
 [การบ้านครั้งที่ 1](https://youtu.be/Tj96dnA5ybM)
 
