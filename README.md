@@ -1,7 +1,12 @@
-# รายงานวิชา CN210
+# รายงานวิชา CN210 สถาปัตยกรรมคอมพิวเตอร์ (Computer Architecture)
 
 ## สรุปเนื้อหา (ยังไม่สมบูรณ์)
 
+1. Computer ประกอบด้วย
+  * CPU
+  * Input/Output
+  * Main Memory
+  
 [การบ้านครั้งที่ 1](https://youtu.be/Tj96dnA5ybM)
 
 [การบ้านครั้งที่ 2](https://youtu.be/K7KxPubbLcY)
