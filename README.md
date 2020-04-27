@@ -117,10 +117,30 @@
           
           นำข้อมูลที่รับเข้ามาจาก PC แล้วนำไปเก็บไว้ที่ Instruction register
           
-    ![image](lw_t1.PNG)
-
-
-[**คลิปวีดีโอการบ้านครั้งที่ 4**](https://youtu.be/IfmJNEMieOw)
+    ![image](lw_t1.png)
+    * Cycle ที่ 2 
+    
+          นำ $rs ไปไว้ที่ A และนำ offset ไปไว้ที่ Sign extend
+          
+    ![image](lw_t2.png)
+    * Cycle ที่ 3
+    
+          นำ $rs มาคำนวณกับ offset ที่ ALU แล้วนำผลไปเก็บไว้ที่ ALUOut
+          
+    ![image](lw_t3.png)
+    * Cycle ที่ 4
+    
+          นำผลจาก ALUOut กลับไปยัง Memory แล้วนำไปไว้ที่ Memory data register
+          
+    ![image](lw_t4.png)
+    * Cycle ที่ 5
+    
+          นำค่าจาก Memory data register กับ $rt ไปไว้ใน register 
+          เพื่อทำการนำค่าจาก Memory data register ไปเขียนไว้ที่ $rt
+          
+    ![image](lw_t5.png)      
+    
+    * [**คลิปวีดีโอการบ้านครั้งที่ 4**](https://youtu.be/IfmJNEMieOw)
 
 [**คลิปวีดีโอการบ้านครั้งที่ 5**](https://youtu.be/PX9spgevC18)
 
