@@ -114,6 +114,8 @@
    
    การทำงานของคำสั่ง lw ใน Multi cycle จะมีอยู่ด้วยกันทั้งหมด 5 cycle ดังนี้
     * Cycle ที่ 1
+          
+          นำข้อมูลที่รับเข้ามาจาก PC แล้วนำไปเก็บไว้ที่ Instruction register
 
 
 [**คลิปวีดีโอการบ้านครั้งที่ 4**](https://youtu.be/IfmJNEMieOw)
