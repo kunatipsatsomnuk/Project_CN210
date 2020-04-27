@@ -11,6 +11,7 @@
     * ALU (Arithermathic and logical unit)
     * Control Unit
     * Register
+    
 3. **MIPS Instruction format ประกอบด้วย**
     * R-format
     
@@ -109,11 +110,14 @@
           
     * [**คลิปวีดีโอการบ้านครั้งที่ 3**](https://youtu.be/kSDwzSKG6SQ)
     
+7. **การบ้านครั้งที่ 4 (การทำงานของคำสั่ง lw ใน Multi cycle)**
+    * การทำงานของคำสั่ง lw ใน Multi cycle จะมีอยู่ด้วยกันทั้งหมด 5 cycle คือ
 
-[คลิปวีดีโอการบ้านครั้งที่ 4](https://youtu.be/IfmJNEMieOw)
 
-[คลิปวีดีโอการบ้านครั้งที่ 5](https://youtu.be/PX9spgevC18)
+[**คลิปวีดีโอการบ้านครั้งที่ 4**](https://youtu.be/IfmJNEMieOw)
 
-[คลิปวีดีโอการบ้านครั้งที่ 6](https://youtu.be/FJwCxofdXOI)
+[**คลิปวีดีโอการบ้านครั้งที่ 5**](https://youtu.be/PX9spgevC18)
 
-[คลิปวีดีโอการบ้านครั้งที่ 7](https://youtu.be/CLlpdwgUzqw)
+[**คลิปวีดีโอการบ้านครั้งที่ 6**](https://youtu.be/FJwCxofdXOI)
+
+[**คลิปวีดีโอการบ้านครั้งที่ 7**](https://youtu.be/CLlpdwgUzqw)
