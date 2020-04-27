@@ -116,6 +116,8 @@
     * Cycle ที่ 1
           
           นำข้อมูลที่รับเข้ามาจาก PC แล้วนำไปเก็บไว้ที่ Instruction register
+          
+    ![image](lw_t1.PNG)
 
 
 [**คลิปวีดีโอการบ้านครั้งที่ 4**](https://youtu.be/IfmJNEMieOw)
