@@ -6,6 +6,7 @@
    * CPU
    * Input/Output
    * Main Memory
+   
 2.CPU ประกอบด้วย
     * ALU (Arithermathic and logical unit)
     * Control Unit
