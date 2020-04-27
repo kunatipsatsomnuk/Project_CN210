@@ -6,6 +6,8 @@
    * CPU
    * Input/Output
    * Main Memory
+2.CPU ประกอบด้วย
+    * ALU
   
 [การบ้านครั้งที่ 1](https://youtu.be/Tj96dnA5ybM)
 
