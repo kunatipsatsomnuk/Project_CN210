@@ -3,7 +3,7 @@
 ### สรุปเนื้อหา (ยังไม่สมบูรณ์)
 
 1. Computer ประกอบด้วย
-   * CPU
+   * CPU (Central processing unit)
    * Input/Output
    * Main Memory
    
