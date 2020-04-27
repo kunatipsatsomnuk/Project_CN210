@@ -43,7 +43,7 @@
         
        ซึ่งรวมกันได้เป็น 0000 0000 0010 0010 0010 1000 0010 0000 หรือ 00222820 ในเลขฐาน 16
 
-    * [คลิปการบ้านครั้งที่ 1](https://youtu.be/Tj96dnA5ybM)
+    * [คลิปวีดีโอการบ้านครั้งที่ 1](https://youtu.be/Tj96dnA5ybM)
 
 5. การบ้านครั้งที่ 2 (การอธิบายการทำงานของคอมพิวเตอร์)
     * โดยในการอธิยบายนั้นจะใช้ตัวอย่างต่อไปนี้
@@ -74,14 +74,14 @@
            4. ในคำสั่งที่ 5 นั้น
               
     
-    * [การบ้านครั้งที่ 2](https://youtu.be/K7KxPubbLcY)
+    * [คลิปวีดีโอการบ้านครั้งที่ 2](https://youtu.be/K7KxPubbLcY)
 
-[การบ้านครั้งที่ 3](https://youtu.be/kSDwzSKG6SQ)
+[คลิปวีดีโอการบ้านครั้งที่ 3](https://youtu.be/kSDwzSKG6SQ)
 
-[การบ้านครั้งที่ 4](https://youtu.be/IfmJNEMieOw)
+[คลิปวีดีโอการบ้านครั้งที่ 4](https://youtu.be/IfmJNEMieOw)
 
-[การบ้านครั้งที่ 5](https://youtu.be/PX9spgevC18)
+[คลิปวีดีโอการบ้านครั้งที่ 5](https://youtu.be/PX9spgevC18)
 
-[การบ้านครั้งที่ 6](https://youtu.be/FJwCxofdXOI)
+[คลิปวีดีโอการบ้านครั้งที่ 6](https://youtu.be/FJwCxofdXOI)
 
-[การบ้านครั้งที่ 7](https://youtu.be/CLlpdwgUzqw)
+[คลิปวีดีโอการบ้านครั้งที่ 7](https://youtu.be/CLlpdwgUzqw)
